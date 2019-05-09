@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To Do Application State Changes</string>
+    <string name="next_btn">Next</string>
+    <string name="previous_btn">Previous</string>
+
+    <string-array name="todo_items">
+        <item>Go For Run</item>
+        <item>Do Yoga</item>
+        <item>Have Breakfast</item>
+        <item>Shower</item>
+        <item>Start Work</item>
+    </string-array>
+</resources>
